@@ -28,6 +28,6 @@ int main() {
     sleep(1);
     //t.join();
     pthread_exit(nullptr);
-    std::cout << "End of main.\n";
-    return 0;
+    //std::cout << "End of main.\n";
+    //return 0;
 }
